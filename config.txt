@@ -1,0 +1,20 @@
+token = 
+owner : 
+prefix = 
+altprefix = "برفكس"
+game = "DEFAULT"
+status = ONLINE
+songinstatus=true
+success = "🎶"
+warning = "💡" 
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+help = help
+npimages = false
+stayinchannel = true
+maxtime = 0
+playlistsfolder = "Playlists"
+updatealerts=false
+lyrics.default = "A-Z Lyrics"
+eval=false
